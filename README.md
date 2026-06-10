@@ -4,7 +4,7 @@ A Machine Learning web application built with Streamlit that predicts the risk o
 
 ## 🚀 Live Demo
 
-🌐 Live App: https://fraud-detection-project-1-8kj4.onrender.com/
+🌐 Live App: https://heart-failure-prediction-fof5.onrender.com/
 
 ---
 
